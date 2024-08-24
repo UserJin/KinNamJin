@@ -2,7 +2,12 @@
 ## 1. :books: Skills
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## 2.  :pencil: Study Projects
+## 2. :video_game: Projects
+|프로젝트명|프로젝트 설명 링크|개발 기간|비고|
+|---|:---:|---|---|
+|Spartan Western|[링크](https://github.com/UserJin/SpartanWestern)|2023-09-24 ~ 2023-12-13|Team Project / GEEKS 참가작|
+
+## 3.  :pencil: Study Projects
 * 유튜브, 인프런 등 게임 제작 강의 영상을 보고 따라 작업하면서 유니티 기능 및 구조 등을 학습한 학습용 프로젝트들입니다.
 
 |강의명|프로젝트 설명 링크|학습 기간|
@@ -12,11 +17,6 @@
 |[유니티 기초 강좌 - 골드메탈](https://www.youtube.com/playlist?list=PLO-mt5Iu5TeYI4dbYwWP8JqZMC9iuUIW2)|[링크](https://github.com/UserJin/GoldMetalTutorials)|2024-03-27 ~ 2024-05-10|
 
 
-## 3. :video_game: Projects
-|프로젝트명|프로젝트 링크|개발 기간|비고|
-|---|:---:|---|---|
-|Spartan Western|[링크](https://github.com/UserJin/SpartanWestern)|2023-09-24 ~ 2023-12-13|Team Project / GEEKS 참가작|
-
 
 </br></br>
-:email:: skawls1126@gmail.com
+연락처: :email:skawls1126@gmail.com
