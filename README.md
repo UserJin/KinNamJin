@@ -19,4 +19,4 @@
 
 
 </br></br>
-연락처: :email:skawls1126@gmail.com
+:email: Email: skawls1126@gmail.com
