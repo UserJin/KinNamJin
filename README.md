@@ -9,44 +9,53 @@
 </br></br>
 
 ## 3.  :runner: Activity
-* 2023 Game, E-sports Evolution Korea Showcase 참가
+* 2023 Game, E-sports Evolution Korea Showcase 참여
 </br></br>
 
 ## 4. :video_game: Projects
-각 프로젝트의 자세한 설명은 하단 링크에서 확인하실 수 있습니다.
+각 프로젝트의 자세한 설명은 링크에서 확인하실 수 있습니다.
 ### [Unity]
-#### SpartanWestern (2023-09-24 ~ 2023-12-13)
+#### SpartanWestern  (2023-09-24 ~ 2023-12-13) [링크](https://github.com/UserJin/SpartanWestern)
+
 1. 개발인원 및 담당 역할
-   * 개발 인원: 4명
+   * 개발 인원: 3명
    * 담당 역할: 플레이어 기초 액션 및 조작 기능 구현, VR 이식 및 VR전용 액션 & UI 추가
 2. 개발환경
    * Unity 2022.3.7f1 LTS
-   * C#
+   * Visual Studio 2019
    * Windows 10
 3. 사용기술
    * Unity Editor
+   * C#
    * URP
    * Design Pattern(Singletern, State)
-4. 개발사항
-
+4. 개발 사항
+   * 플레이어가 입력한 조작에 따라 state를 변경하고 해당 액션을 실행하도록 구현
+   * Timescale을 통해 슬로우 모드 구현
+   * 플레이어 사망 시, 특정 시간 이전의 위치로 돌아가는 기능(List, Stack 활용)
+   * URP의 포스트프로세싱을 통한 그래픽 효과
+   * 일부 Manager를 Singleton Pattern을 통해 구현
+5. 비고
+   * 2023 GEEKS 전시 작품
+   * Teamproject
 </br></br>
 
 ### [Application]
-#### 가계샐러드 (2022-05-23 ~ 2022-06-10)
+#### 가계샐러드 (2022-05-23 ~ 2022-06-10) [링크](https://github.com/UserJin/MobileProgramming)
+
 1. 개발 인원 및 담당 역할
-
+   * 개발 인원: 4명
+   * 담당 역할: Firebase Realtime Database를 통한 데이터 저장 및 문자메세지 자동 인식 기능
 2. 개발환경
-
+   * Android Studio Chipmunk | 2021.2.1 Patch 1
 3. 사용기술
-
-4. 개발사항
-
-</br></br>
-
-|분류|프로젝트명|프로젝트 링크|개발 기간|비고|
-|:---:|:---:|:---:|---|---|
-|유니티|SpartanWestern|[링크](https://github.com/UserJin/SpartanWestern)|2023-09-24 ~ 2023-12-13|Team Project / GEEKS 참가작|
-|앱|가계샐러드|[링크](https://github.com/UserJin/MobileProgramming)|2022-05-23 ~ 2022-06-10|Team Project|
+   * Kotlin
+   * Firebase Realtime Database
+4. 개발 사항
+   * 지출 및 수입 기록을 저장하기 위한 데이터 구조 설계
+   * 특정 번호로 문자 메시지가 올 경우 지출 기록 화면으로 이동한 뒤, 문자 메시지 내용을 바탕으로 지출 기록 자동 생성
+5. 비고
+   * Teamproject
 
 </br></br>
 
