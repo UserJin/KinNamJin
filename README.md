@@ -4,9 +4,10 @@
 </br></br>
 
 ## 2. :video_game: Projects
-|프로젝트명|프로젝트 링크|개발 기간|비고|
-|---|:---:|---|---|
-|Spartan Western|[링크](https://github.com/UserJin/SpartanWestern)|2023-09-24 ~ 2023-12-13|Team Project / GEEKS 참가작|
+|분류|프로젝트명|프로젝트 링크|개발 기간|비고|
+|:---:|:---:|:---:|---|---|
+|유니티|Spartan Western|[링크](https://github.com/UserJin/SpartanWestern)|2023-09-24 ~ 2023-12-13|Team Project / GEEKS 참가작|
+|앱|가계샐러드|[링크](https://github.com/UserJin/MobileProgramming)|2022-05-23 ~ 2022-06-10|Team Project|
 
 </br></br>
 
