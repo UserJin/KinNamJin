@@ -13,9 +13,39 @@
 </br></br>
 
 ## 4. :video_game: Projects
+각 프로젝트의 자세한 설명은 하단 링크에서 확인하실 수 있습니다.
+### [Unity]
+#### SpartanWestern (2023-09-24 ~ 2023-12-13)
+1. 개발인원 및 담당 역할
+   * 개발 인원: 4명
+   * 담당 역할: 플레이어 기초 액션 및 조작 기능 구현, VR 이식 및 VR전용 액션 & UI 추가
+2. 개발환경
+   * Unity 2022.3.7f1 LTS
+   * C#
+   * Windows 10
+3. 사용기술
+   * Unity Editor
+   * URP
+   * Design Pattern(Singletern, State)
+4. 개발사항
+
+</br></br>
+
+### [Application]
+#### 가계샐러드 (2022-05-23 ~ 2022-06-10)
+1. 개발 인원 및 담당 역할
+
+2. 개발환경
+
+3. 사용기술
+
+4. 개발사항
+
+</br></br>
+
 |분류|프로젝트명|프로젝트 링크|개발 기간|비고|
 |:---:|:---:|:---:|---|---|
-|유니티|Spartan Western|[링크](https://github.com/UserJin/SpartanWestern)|2023-09-24 ~ 2023-12-13|Team Project / GEEKS 참가작|
+|유니티|SpartanWestern|[링크](https://github.com/UserJin/SpartanWestern)|2023-09-24 ~ 2023-12-13|Team Project / GEEKS 참가작|
 |앱|가계샐러드|[링크](https://github.com/UserJin/MobileProgramming)|2022-05-23 ~ 2022-06-10|Team Project|
 
 </br></br>
