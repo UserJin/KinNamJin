@@ -15,9 +15,9 @@
 
 |강의명|프로젝트 설명 링크|학습 기간|
 |---|:---:|---|
-|[Genshin Impact Movement - Indie Wafflus](https://www.youtube.com/playlist?list=PL0yxB6cCkoWKuPoh_9dSvdItQENVx7YTW)|[링크](https://github.com/UserJin/GenshinLikeProject)|2024-07-15 ~ 2024-08-10|
-|[\[C#과 유니티로 만드는 MMORPG 게임 개발 시리즈\] Part3: 유니티 엔진 - Rookiss](https://www.inflearn.com/course/mmorpg-%EC%9C%A0%EB%8B%88%ED%8B%B0)|[링크](https://github.com/UserJin/MMO_Unity)|2024-05-21 ~ 2024-06-20|
-|[유니티 기초 강좌 - 골드메탈](https://www.youtube.com/playlist?list=PLO-mt5Iu5TeYI4dbYwWP8JqZMC9iuUIW2)|[링크](https://github.com/UserJin/GoldMetalTutorials)|2024-03-27 ~ 2024-05-10|
+|Genshin Impact Movement - Indie Wafflus|[링크](https://github.com/UserJin/GenshinLikeProject)|2024-07-15 ~ 2024-08-10|
+|\[C#과 유니티로 만드는 MMORPG 게임 개발 시리즈\] Part3: 유니티 엔진 - Rookiss|[링크](https://github.com/UserJin/MMO_Unity)|2024-05-21 ~ 2024-06-20|
+|유니티 기초 강좌 - 골드메탈|[링크](https://github.com/UserJin/GoldMetalTutorials)|2024-03-27 ~ 2024-05-10|
 
 </br></br>
 
