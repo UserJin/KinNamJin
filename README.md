@@ -34,7 +34,7 @@
    * Timescale을 통해 슬로우 모드 구현
    * 플레이어 사망 시, 특정 시간 이전의 위치로 돌아가는 기능(List, Stack 활용)
    * URP의 포스트프로세싱을 통한 그래픽 효과
-   * 일부 Manager를 Singleton Pattern을 통해 구현
+   * 일부 Manager클래스 구현에 Singleton Pattern 사용
 5. 비고
    * 2023 GEEKS 전시 작품
    * Teamproject
